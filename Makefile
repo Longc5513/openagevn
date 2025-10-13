@@ -75,6 +75,9 @@ doc: $(BUILDDIR)
 cleanelf: $(BUILDDIR)
 	@# removes all object files and binaries
 	$(MAKE) $(MAKEARGS) -C $(BUILDDIR) clean
+python-dotenv
+python-dotenv
+python-dotenv
 
 .PHONY: cleancodegen
 cleancodegen: $(BUILDDIR)
