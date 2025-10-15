@@ -23,7 +23,10 @@ install: $(BUILDDIR)
 .PHONY: run
 run: build
 	cd $(BUILDDIR) && ./run main
-
+$(BUILDDIR):
+	@echo "call ./configure to initialize the build directory."
+	@echo "also see ./configure --help, and doc/building.md"
+	@echo ""
 .PHONY: test
 test: tests checkfast
 
