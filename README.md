@@ -15,7 +15,7 @@ Contact
 -------
 | Contact          | Where?                                                                                             |dggddgdg
 | ---------------- | -------------------------------------------------------------------------------------------------- |
-| Issue Tracker    | [GitHub SFTtech/openage]                                                                           |
+| Issue Tracker    | [GitHub SFTtech/opexcvcvcvcvnage]                                                                           |
 | Development Blog | [blog.openage.dev]                                                                                 |
 | Subreddit        | [![reddit](/assets/doc/reddit.svg) /r/openage](https://www.reddit.com/r/openage/)                  |
 | Discussions      | [GitHub Discussions]                                                                               |
