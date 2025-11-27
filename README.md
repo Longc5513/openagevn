@@ -11,7 +11,7 @@ To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_conver
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 gfgfgfgffg
 
-Contactggdgdggdgdgdgdgdg
+Contact
 -------
 | Contact          | Where?                                                                                             |dggddgdg
 | ---------------- | -------------------------------------------------------------------------------------------------- |
