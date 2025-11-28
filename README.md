@@ -28,7 +28,7 @@ Contact
 
 Technical foundation
 --------------------
-
+vcvvccv
 | Technology   | Component                                                     |
 | ------------ | ------------------------------------------------------------- |
 | **C++20**    | Engine core                                                   |
