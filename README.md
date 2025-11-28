@@ -13,7 +13,7 @@ gfgfgfgffg
 zccxcxcxccvcvcvcv
 Contact
 -------
-| Contact          | Where?                                                                                             |dggddgdg
+| Contact          | Where?                                   bvbv                                                          |dggddgdg
 | ---------------- | -------------------------------------------------------------------------------------------------- |
 | Issue Tracker    | [GitHub SFTtech/opexcvcvcvcvnage]                                                                           |
 | Development Blog | [blog.openage.dev]                                                                                 |
