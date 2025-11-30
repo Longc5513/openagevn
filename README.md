@@ -20,7 +20,7 @@ Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 | Discussions      | [GitHub Discussions]                                                                               |
 | Matrix Chat      | [![matrix](/assets/doc/matrix.svg) `#sfttech:matrix.org`](https://matrix.to/#/#sfttech:matrix.org) |
 | Money Sink       | [![money sink](/assets/doc/liberapay.svg)](https://liberapay.com/SFTtech)                          |
-
+[GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
 [GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
 [blog.openage.dev]: https://blog.openage.dev
 [GitHub Discussions]: https://github.com/SFTtech/openage/discussions
