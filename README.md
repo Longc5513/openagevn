@@ -68,6 +68,7 @@ Goals
 
 But beware, for sanity reasons:
 
+But beware, for sanity reasons:
 * No network compatibility with the original game.
   You really wanna have the same problems again?
 * No binary compatibility with the original game.
