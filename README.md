@@ -73,7 +73,7 @@ But beware, for sanity reasons:
 * No binary compatibility with the original game.
   A one-way script to convert maps/savegames/missions to openage is planned though.
 
-
+* No network compatibility with the original game.
 Current State of the Project
 ----------------------------
 
