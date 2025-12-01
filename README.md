@@ -52,7 +52,8 @@ vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [**Opus**]: https://opus-codec.org/
 [**nyan**]: https://github.com/SFTtech/nyan
 [**Humans**]: https://www.youtube.com/watch?v=fQGbXmkSArs&t=18s
-
+Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 Goals
 -----
 
