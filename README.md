@@ -15,7 +15,8 @@ Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL lic
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 | Contact          | Where?                                   bvbv                                                          |dggddgdg
-| ---------------- | -------------------------------------------------------------------------------------------------- |
+| ---------------- | -------------------------------Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)------------------------------------------------------------------- |
 | Issue Tracker    | [GitHub SFTtech/opexcvcvcvcvnage]                                                                           |
 | Development Blog | [blog.openage.dev]                                                                                 |
 | Subreddit        | [![reddit](/assets/doc/reddit.svg) /r/openage](https://www.reddit.com/r/openage/)                  |
