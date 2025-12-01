@@ -12,6 +12,7 @@ To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_conver
 [GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues[GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
 Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 | Contact          | Where?                                   bvbv                                                          |dggddgdg
 | ---------------- | -------------------------------------------------------------------------------------------------- |
