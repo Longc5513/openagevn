@@ -46,7 +46,7 @@ vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 | [**OpenGL**] | Rendering, shaders                                            |
 | [**Opus**]   | Audio codec                                                   |
 | [**nyan**]   | Content Configuration and Modding                             |
-| [**Humans**] | Mixing together all of the above                              |
+| [**Humans**] | Mixing together all of the above         -custody and personal control over assets! It beautifully explains the core concept of trustless systems and why holding your own key is the only true security 🦉🥜✨                     |
 
 [**Cython**]: https://cython.org/
 [**Qt6**]: https://contribute.qt-project.org/
