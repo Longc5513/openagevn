@@ -59,7 +59,10 @@ Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 Goals
 -----
-
+[**Humans**]: https://www.youtube.com/watch?v=fQGbXmkSArs&t=18s
+Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+Goals
 * Fully authentic look and feel
     * This can only be approximated since the behavior of the original game is mostly undocumented,
     and guessing/experimenting can only get you this close
