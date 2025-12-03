@@ -26,7 +26,7 @@ Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL lic
 | Money Sink       | [![money sink](/assets/doc/liberapay.svg)](https://liberapay.com/SFTtech)                          |
 [GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
 [GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
-[blog.openage.dev]: https://blog.openage.dev
+[blog.openage.dev]: https://blog.openage.dev[blog.openage.dev]: https://blog.openage.dev
 [GitHub Discussions]: https://github.com/SFTtech/openage/discussions
 openage uses the original game assets (such as sounds and graphics), but (for obvious reasons) doesn't ship them.
 To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_convert.md)* or their *Definitive Edition* releases.
