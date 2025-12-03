@@ -88,7 +88,8 @@ But beware, for sanity reasons:
 * No network compatibility with the original game.
 Current State of the Project
 ----------------------------
-
+Current State of the Project
+----------------------------
 **Important notice**: At the moment, "gameplay" is basically non-functional.
 We're implementing the internal game simulation (how units even do anything) with simplicity and extensibility in mind, so we had to get rid of the temporary (but kind of working) previous version.
 With these changes, we can (finally) actually make use of our converted asset packs and our nyan API!
