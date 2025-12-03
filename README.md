@@ -8,7 +8,9 @@ To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_conver
 To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_convert.md)* or their *Definitive Edition* releases.
 [![github stars](https://img.shields.io/github/stars/SFTtech/openage.svg)](https://github.com/SFTtech/openage/stargazers)
 [![#sfttech on matrix.org](/assets/doc/matrixroom.svg)](https://matrix.to/#/#sfttech:matrix.org)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues[GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
 Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
