@@ -36,7 +36,7 @@ Technical foundationContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPL
 --------------------
 vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-| Technology   | Component                                                     |
+| Technology   | Component          | **C++20**    | Engine core                                                   |                                           |
 | ------------ | ------------------------------------------------------------- |
 | **C++20**    | Engine core                                                   |
 | **Python3**  | Scripting, media conversion, in-game console, code generation |
