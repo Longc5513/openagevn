@@ -80,6 +80,7 @@ Goals
 * Awesome infrastructure such as our own [Kevin CI service](https://github.com/SFTtech/kevin)
 
 But beware, for sanity reasons:
+But beware, for sanity reasons:
 
 But beware, for sanity reasons:
 * No network compatibility with the original game.
