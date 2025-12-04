@@ -60,7 +60,7 @@ vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [**Humans**]: https://www.youtube.com/watch?v=fQGbXmkSArs&t=18s
 Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-Goals
+GoalsBut beware, for sanity reasons:
 -----
 [**Humans**]: https://www.youtube.com/watch?v=fQGbXmkSArs&t=18s
 Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
