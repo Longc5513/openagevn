@@ -5,7 +5,7 @@
 [![openage](/assets/logo/banner.svg)](http://openage.dev)[![openage](/assets/logo/banner.svg)](http://openage.dev)
 **openage**: a volunteer project to create a free engine clone of the *Genie Engine* used by *Age of Empires*, *Age of Empires II (HD)* and *Star Wars: Galactic Battlegrounds*, comparable to projects like [OpenMW](https://openmw.org/), [OpenRA](http://openra.net/),  [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE/), [OpenTTD](https://openttd.org/) and [OpenRCT2](https://openrct2.org/).
 But beware, for sanity reasons:
-But beware, for sanity reasons:But beware, for sanity reasons:
+But beware, for sanity reasons:But beware, for sanity reasons:But beware, for sanity reasons:
 openage uses the original game assets (such as sounds and graphics), but (for obvious reasons) doesn't ship them.
 To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_convert.md)* or their *Definitive Edition* releases.
 To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_convert.md)* or their *Definitive Edition* releases.
