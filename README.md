@@ -1,30 +1,4 @@
-[![openage](/assets/logo/banner.svg)](http://openage.dev)[![openage](/assets/logo/banner.svg)](http://openage.dev)
-=========================================================
-\[![openage](/assets/logo/banner.svg)](http://openage.dev)
-\=========================================================
-\[![openage](/assets/logo/banner.svg)](http://openage.dev)=========================================================
-\[![openage](/assets/logo/banner.svg)](http://openage.dev)
-[![openage](/assets/logo/banner.svg)](http://openage.dev)[![openage](/assets/logo/banner.svg)](http://openage.dev)
-**openage**: a volunteer project to create a free engine clone of the *Genie Engine* used by *Age of Empires*, *Age of Empires II (HD)* and *Star Wars: Galactic Battlegrounds*, comparable to projects like [OpenMW](https://openmw.org/), [OpenRA](http://openra.net/),  [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE/), [OpenTTD](https://openttd.org/) and [OpenRCT2](https://openrct2.org/).
-But beware, for sanity reasons:But beware, for sanity reasons:But beware, for sanity reasons:
-But beware, for sanity reasons:But beware, for sanity reasons:But beware, for sanity reasons:
-openage uses the original game assets (such as sounds and graphics), but (for obvious reasons) doesn't ship them.
-To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_convert.md)* or their *Definitive Edition* releases.
-To play, you require *[any of the original games (AoE1, AoE2)](/doc/media_convert.md)* or their *Definitive Edition* releases.
-[![github stars](https://img.shields.io/github/stars/SFTtech/openage.svg)](https://github.com/SFTtech/openage/stargazers)
-[![#sfttech on matrix.org](/assets/doc/matrixroom.svg)](https://matrix.to/#/#sfttech:matrix.org)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues[GitHub SFTtech/openage]: https://github.com/SFTtech/openage/issues
-Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-| Contact          | Where?                                   bvbv                                                          |dggddgdg
-| ---------------- | -------------------------------Contact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL lice[![#sfttech on matrix.org](/assets/doc/matrixroom.svg)](https://matrix.to/#/#sfttech:matrix.org)
-[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)sed](/assets/doc/license.svg)](/legal/GPLv3)------------------------------------------------------------------- |
+| Issue Tracker    | [GitHub SFTtech/opexcvcvcvcvnage]  
 | Issue Tracker    | [GitHub SFTtech/opexcvcvcvcvnage]                                                                           |
 | Development Blog | [blog.openage.dev]                                                                                 |
 | Subreddit        | [![reddit](/assets/doc/reddit.svg) /r/openage](https://www.reddit.com/r/openage/)                  |
