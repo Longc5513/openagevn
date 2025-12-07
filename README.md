@@ -1,4 +1,4 @@
-[![openage](/assets/logo/banner.svg)](http://openage.dev)
+[![openage](/assets/logo/banner.svg)](http://openage.dev)[![openage](/assets/logo/banner.svg)](http://openage.dev)
 =========================================================
 \[![openage](/assets/logo/banner.svg)](http://openage.dev)
 \=========================================================
