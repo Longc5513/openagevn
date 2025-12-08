@@ -1,5 +1,5 @@
 | Issue Tracker    | [GitHub SFTtech/opexcvcvcvcvnage]  
-  | [GitHub SFTtech/opexcvcvcvcvnage]  
+  | [GitHub SFTtech/opexcvcvcvcvnage]    | [GitHub SFTtech/opexcvcvcvcvnage]  
 --------------------
 vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
