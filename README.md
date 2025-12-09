@@ -1,4 +1,4 @@
-| Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'
+| Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'font: 'block'
 | Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'
 | Issue Tracker   cdd      font: 'block'[**Cython**]: https://cython.org/
 --------------------/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
