@@ -1,5 +1,5 @@
 | Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'font: 'block'
-
+bbj
 | Technology   | Component          | **C++20**    | Engine core   
 vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
