@@ -1,7 +1,16 @@
 | Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'font: 'block'
 vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+| T| Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'font: 'block'
+vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 | Technology   | Component          | **C++20**    | Engine core                                                   |                                           |
+| ------------ | ------------------------------------------------------------- |
+| **C++20**    | Engine core                                                   |
+| **Python3**  | Scripting, media conversion, in-game console, code generation |
+| [**Cython**] | Python/C++ Glue code                                          |
+| [**Qt6**]    | Graphical user interface                                      |
+| [**CMake**]  | Build system                                      echnology   | Component          | **C++20**    | Engine core                                                   |                                           |
 | ------------ | ------------------------------------------------------------- |
 | **C++20**    | Engine core                                                   |
 | **Python3**  | Scripting, media conversion, in-game console, code generation |
