@@ -1,5 +1,19 @@
 | Issue Tracker   cdd      font: 'block'| Issue Tracker   cdd      font: 'block'font: 'block'
+vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
+| Technology   | Component          | **C++20**    | Engine core                                                   |                                           |
+| ------------ | ------------------------------------------------------------- |
+| **C++20**    | Engine core                                                   |
+| **Python3**  | Scripting, media conversion, in-game console, code generation |
+| [**Cython**] | Python/C++ Glue code                                          |
+| [**Qt6**]    | Graphical user interface                                      |
+| [**CMake**]  | Build system                                                  |
+| [**OpenGL**] | Rendering, shaders                                            |
+| [**Opus**]   | Audio codec                                                   |
+| [**nyan**]   | Content Configuration and Modding                             |
+| [**Humans**] | Mixing together all of the above         -custody and personal control over assets! It beautifully explains the core concept of trustless systems and why holding your own key is the only true security 🦉🥜✨                     |
 
+[**Cython**]: https://cython.org/
 vcvvccvContact[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 [![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)[![GPL licensed](/assets/doc/license.svg)](/legal/GPLv3)
 | Technology   | Component          | **C++20**    | Engine core                                                   |                                           |
